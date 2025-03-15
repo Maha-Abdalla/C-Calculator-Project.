@@ -1,4 +1,4 @@
-C Calculator Project:
+Simple-C-Calculator :
  A simple command-line calculator written in C that supports basic arithmetic operations and input validation.
 
 Features:
