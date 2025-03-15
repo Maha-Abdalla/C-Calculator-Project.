@@ -4,7 +4,9 @@ C Calculator Project:
 Features:
 * Supports Addition, Subtraction, Multiplication, and Division.
 
-Instructions:
+Instructions
+To use this calculator, follow these steps:
+
 1-Enter two numbers.
 2-Enter an operation(+, -, *, /).
 3-You can see the final result of the mathematical operation.
