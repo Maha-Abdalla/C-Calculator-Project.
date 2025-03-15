@@ -1,3 +1,6 @@
+
+(https://github.com/Maha-Abdalla/C-Math-Calculator/blob/main/Calculator-Manner.png?raw=true)
+
 Simple-C-Calculator :
  A simple command-line calculator written in C that supports basic arithmetic operations and input validation.
 
