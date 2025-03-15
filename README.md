@@ -10,7 +10,7 @@ Instructions:
 3-You can see the final result of the mathematical operation.
 
 Participation:
-You'are welcome to fork this depository, report issues or creat pull requests to make the project advanced.
+You are welcome to fork this repository, report issues or create pull requests to make the project advanced.
 
 Licensing:
 The project operates under the open-source MIT License.
